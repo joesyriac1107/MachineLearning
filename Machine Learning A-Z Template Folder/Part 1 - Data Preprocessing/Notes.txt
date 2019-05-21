@@ -1,0 +1,14 @@
+The data set usually have dependent and independent variables
+ML:Process to find dependant variables from independent one.
+
+For the given dataset::
+Country age and salary are independent variable
+Purchased is depndent variable(But why????)
+
+three eseential libraries to import in python
+numpy: contans mathematical tools
+matplotlib.pyplot: use to plot good charts
+pandas: easy library to inmport data set
+
+in Ml with python we need to distinguish dataset with  matrix of  features adn dependnent variable features
+
